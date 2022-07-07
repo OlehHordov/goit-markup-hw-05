@@ -694,7 +694,7 @@ body {
 }
 
 /* Portfolio-overlay */
-.portfolio-item {
+.overlay-item {
   position: relative;
   overflow: hidden;
 }
